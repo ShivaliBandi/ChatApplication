@@ -1,0 +1,123 @@
+Connection accepted /127.0.0.1:1500
+
+List of the users connected at 15:06:35
+
+1) shivali since Tue Jan 21 15:06:31 IST 2020
+
+Connection accepted /127.0.0.1:1500
+
+Server has close the connection: java.net.SocketException: Socket closed
+Connection accepted /127.0.0.1:1500
+
+15:25:02 shivali: 
+hiii
+
+
+15:25:04 shivali: 
+hii
+
+
+15:25:07 shivali: 
+j
+
+
+15:25:09 shivali: 
+WHOISIN
+
+
+15:25:12 shivali: 
+WHOISIN
+
+
+15:25:19 shivali: 
+WHOISIN
+
+
+15:25:20 shivali: 
+WHOISIN
+
+
+15:25:21 shivali: 
+WHOISIN
+
+
+15:25:23 shivali: 
+LOGOUT
+
+
+Connection accepted /127.0.0.1:1500
+
+15:29:23 shiv: 
+LOGOUT
+
+
+Connection accepted /127.0.0.1:1500
+
+13:15:59 shivali: 
+hiii
+
+
+13:16:01 shivali: 
+hii
+
+
+13:16:04 shivali: 
+LOGOUT
+
+
+Connection accepted /127.0.0.1:1500
+
+Connection accepted /127.0.0.1:1500
+
+List of the users connected at 17:02:57
+
+1) shiv since Wed Jan 22 17:02:55 IST 2020
+
+List of the users connected at 17:03:00
+
+1) shiv since Wed Jan 22 17:02:55 IST 2020
+
+17:03:09 shiv: dfsff
+
+17:03:10 shiv: dfsdf
+
+17:03:10 shiv: dfdfdsf
+
+17:03:10 shiv: sdfsd
+
+17:03:11 shiv: fds
+
+17:03:11 shiv: fsdfsdf
+
+17:03:12 shiv: dfdfsdfsdf
+
+17:03:14 shiv: dfdfd
+
+Connection accepted /127.0.0.1:1500
+
+17:03:44 shiv: xzczc
+
+17:03:45 shiv: xxcxcxc
+
+17:03:45 shiv: xzcxc
+
+17:03:46 shiv: xz
+
+List of the users connected at 17:03:48
+
+1) shiv since Wed Jan 22 17:03:36 IST 2020
+
+
+Connection accepted /127.0.0.1:1500
+
+17:09:36 shiv: hii
+
+
+Connection accepted /127.0.0.1:1500
+
+17:09:59 shiv: jj
+
+List of the users connected at 17:10:01
+
+1) shiv since Wed Jan 22 17:09:55 IST 2020
+

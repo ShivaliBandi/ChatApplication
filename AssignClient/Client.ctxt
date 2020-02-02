@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=server\ port\ username
+comment1.target=Client(java.lang.String,\ int,\ java.lang.String)
+comment2.params=msg
+comment2.target=void\ displayEvent(java.lang.String)
+comment3.params=msg
+comment3.target=void\ displayMsg(java.lang.String)
+comment4.params=
+comment4.target=void\ chatSave()
+comment5.params=
+comment5.target=boolean\ run()
+comment6.params=msg
+comment6.target=void\ sendMessage(java.lang.String)
+comment6.text=\r\n\ To\ send\ a\ message\ to\ the\ server\r\n
+comment7.params=
+comment7.target=void\ disconnect()
+comment7.text=\r\n\ When\ something\ goes\ wrong\r\n\ Close\ the\ Input/Output\ streams\ and\ disconnect\r\n\ not\ much\ to\ do\ in\ the\ catch\ clause\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

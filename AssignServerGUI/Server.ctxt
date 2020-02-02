@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Server
+comment1.params=port\ mg
+comment1.target=Server(int,\ myGUI)
+comment1.text=\r\n\ \ server\ constructor\ that\ receives\ the\ port\ to\ listen\ to\ for\ connection\r\n\ \ as\ parameter\ in\ console\r\n
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ stop()
+comment3.text=\r\n\ For\ the\ GUI\ to\ stop\ the\ server\r\n
+comment4.params=msg
+comment4.target=void\ displayEvent(java.lang.String)
+comment4.text=\r\n\ Display\ an\ event\ (not\ a\ message)\ to\ the\ console\ or\ the\ GUI\r\n
+comment5.params=msg
+comment5.target=void\ displayMsg(java.lang.String)
+comment5.text=\r\n\ Display\ an\ event\ (not\ a\ message)\ to\ the\ console\ or\ the\ GUI\r\n
+comment6.params=
+comment6.target=void\ chatSave()
+comment7.params=message
+comment7.target=void\ broadcast(java.lang.String)
+comment7.text=\r\n\ \ to\ broadcast\ a\ message\ to\ all\ Clients\r\n
+comment8.params=id
+comment8.target=void\ remove(int)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+comment9.text=\r\n\ \ To\ run\ as\ a\ console\ application\ just\ open\ a\ console\ window\ and\:\ \r\n\ >\ java\ Server\r\n\ >\ java\ Server\ portNumber\r\n\ If\ the\ port\ number\ is\ not\ specified\ 1500\ is\ used\r\n
+numComments=10
