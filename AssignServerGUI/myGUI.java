@@ -1,10 +1,3 @@
-/*
- * The server as a GUI
- *
- * @author Dr Richard Jiang; minor edits by Dr Mark C. Sinclair
- * @version 21 Oct 2019
- */
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

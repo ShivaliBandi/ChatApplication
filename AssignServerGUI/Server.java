@@ -1,9 +1,3 @@
-/*
- * The server that can be run both as a console application or a GUI
- *
- * @author Dr Richard Jiang; minor edits by Dr Mark C. Sinclair
- * @version 21 Oct 2019
- */
 
 import java.io.*;
 import java.net.*;

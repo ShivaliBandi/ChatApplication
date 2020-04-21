@@ -1,10 +1,3 @@
-/*
- * Client.java
- *
- * @author Dr Richard Jiang; minor edits by Dr Mark C. Sinclair
- * @version 21 Oct 2019
- */
-
 import java.util.*;
 import java.io.*;
 import java.net.*;
@@ -32,17 +25,13 @@ public class Client {
         chatList = new ArrayList<String>();
     }
 
-    //Display an event (not a message) to the console
-    //!!!Note - Revise it to GUI Style. Refer to myGUI in server side
-    private void displayEvent(String msg) 
+        private void displayEvent(String msg) 
     {
         chatList.add(msg);
         cg.appendEvent(msg);
     }
 
-    //Display a message to the console
-    //!!!Note - Revise it to GUI Style. Refer to myGUI in server side
-    private void displayMsg(String msg)
+        private void displayMsg(String msg)
     {
         chatList.add(msg);
         cg.appendRoom(msg);     // append in the room window
