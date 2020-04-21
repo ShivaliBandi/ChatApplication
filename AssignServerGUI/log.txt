@@ -1,7 +1,0 @@
-23:50:48 Server waiting for Clients on port 1500.
-
-23:51:15 shivali just connected.
-
-23:51:15 Server waiting for Clients on port 1500.
-
-23:52:50 shivali Exception reading Streams: java.io.EOFException
